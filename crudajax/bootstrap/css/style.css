@@ -1,0 +1,44 @@
+html,body {
+	margin: 0px;
+	height: 0px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+/* Start navbar */
+
+.navbar-default {
+	background-color: #fff;
+	margin-bottom: 0px;
+}
+
+/* end navbar */
+
+
+/* Start jumbotron */
+
+.jumbotron {
+	background-color: #673AB7;
+	height: 300px;
+}
+
+
+
+
+.jumbotron .box-tool h1 {
+	font-weight: bold;
+	color: #fff;
+}
+
+.jumbotron .box-tool p {
+	color: #fff;
+}
+
+
+.jumbotron .box-tool button {
+	border-radius: 0;
+}
+
+
+/* end jumbotron */
+
